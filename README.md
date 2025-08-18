@@ -61,3 +61,6 @@
 **You do not need to manually upload coverage files—this is handled by the workflow.**
 
 ---
+
+Original repo here - https://github.com/Mastercard/client-encryption-python
+License is MIT License, as of 18th August 2025
